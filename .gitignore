@@ -1,0 +1,12 @@
+# Ignore secret files
+KEYS.py
+Firebase_admin_KEY.json
+.env
+
+# Python junk
+__pycache__/
+Projects&Other/
+KEYS/
+old/
+*.csv
+*.pyc
