@@ -181,7 +181,7 @@ class FireBaseTools(InsightGeneratorLogic):
         super().__init__()
         print("FirebaseTools Initialized")
 
-        cred = credentials.Certificate("InceptezTasks/KEYS/Firebase_admin_KEY.json")
+        cred = credentials.Certificate("ClaimEazy/KEYS/Firebase_admin_KEY.json")
 
         if not firebase_admin._apps:
             firebase_admin.initialize_app(cred, {
