@@ -1,4 +1,4 @@
-# ClaimEasy: Technical Deep Dive
+# ClaimEazy: Technical Deep Dive
 
 ## 1. Overall Architecture & Data Flow
 
